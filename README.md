@@ -6,10 +6,10 @@ I'm a **BTech IT student** who enjoys building practical, meaningful tech projec
 
 ## 🚀 Projects & Work I've Done
 
-* **GYM-App** — A simple and functional gym management/tracking application.
-* **WaveLine** — A creative technical project showcasing experimentation with interfaces and logic.
-* **Online_Shopping** — A beginner-friendly shopping site demonstrating web application fundamentals.
-* **Local AI Agent** — A lightweight AI agent concept showing my interest in automation and AI-driven tools.
+* **GYM-App** - A simple and functional gym management/tracking application.
+* **WaveLine** - A creative technical project showcasing experimentation with interfaces and logic.
+* **Online_Shopping** - A beginner-friendly shopping site demonstrating web application fundamentals.
+* **Local AI Agent** - A lightweight AI agent concept showing my interest in automation and AI-driven tools.
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +26,11 @@ I'm a **BTech IT student** who enjoys building practical, meaningful tech projec
 ## 📫 Contact
 
 * GitHub: **github.com/Se7en24**
-* Mail : amalsajeev2005@gmail.com *
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Se7en24\&show_icons=true\&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Se7en24\&layout=compact)
 
 ---
 
