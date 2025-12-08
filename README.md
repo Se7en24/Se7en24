@@ -27,11 +27,6 @@ I'm a **BTech IT student** who enjoys building practical, meaningful tech projec
 
 * GitHub: **github.com/Se7en24**
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Se7en24\&show_icons=true\&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Se7en24\&layout=compact)
-
 ---
 
 ⭐ *Thanks for visiting my profile!*
